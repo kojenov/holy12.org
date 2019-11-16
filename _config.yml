@@ -25,8 +25,8 @@ author: kojenov
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://kojenov.github.io'
-baseurl: '/holy12.org'
+url: 'https://kojenov.github.io/holy12.org'
+baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
