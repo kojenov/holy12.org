@@ -32,7 +32,7 @@ Service time may vary. See the [calendar](/calendar/) for the most current infor
 
 ## Parish Contacts
 
-| ![](../images/michael-rozdilski.jpg)      | **Rev. Michael Rozdilski**, *rector* <br/>425-999-0407<br/>Use the [contact form](/contact) to contact Fr. Michael online. | 
-| ![](../images/alex-ivkin.jpg)      | **Dn. Alexander Ivkin** <br/>650-701-3370 | 
-| ![](../images/alexei-kojenov.jpg)      | **Dn. Alexei Kojenov** <br/>503-553-9860 | 
+| ![](/images/michael-rozdilski.jpg)      | **Rev. Michael Rozdilski**, *rector* <br/>425-999-0407<br/>Use the [contact form](/contact) to contact Fr. Michael online. | 
+| ![](/images/alex-ivkin.jpg)      | **Dn. Alexander Ivkin** <br/>650-701-3370 | 
+| ![](/images/alexei-kojenov.jpg)      | **Dn. Alexei Kojenov** <br/>503-553-9860 | 
 
