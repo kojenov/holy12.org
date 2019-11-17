@@ -15,7 +15,7 @@ The newsletter archive
 {% for f in fs %}
   {% assign parts = f.basename | split: '-' %}
   {% assign mo = parts[1] | minus: 1 %} 
-  [{{ months[mo] }} {{ parts[0] }}]({{ f.path }})
+  [{{ months[mo] }} {{ parts[0] }}]({{ site.url }}{{ f.path }})
 {% endfor %}
 
 <!--http://ashbrook.io/2018-04-26-listing-documents-via-jekyll-without-collections/-->

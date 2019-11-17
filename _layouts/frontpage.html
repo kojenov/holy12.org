@@ -64,7 +64,7 @@ format: frontpage
 {% assign f = site.static_files | where_exp: "f","f.path contains '/newsletter/'" | last %}
 <div class="row t60 b60">
     <div class="small-12 text-center columns">
-        <a class="button large radius {{ page.callforaction.style }}" href="{{ f.path }}" target="_blank" >Download the latest newsletter</a>
+        <a class="button large radius {{ page.callforaction.style }}" href="{{ site.url }}{{ f.path }}" target="_blank" >Download the latest newsletter</a>
     </div>
 </div>
 
