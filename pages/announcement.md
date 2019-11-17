@@ -4,6 +4,8 @@ announcement: true
 
 ## Announcements
 
+Test...
+
 Upcoming Nativity services and events (to be confirmed):
 
 - Monday, January 6
