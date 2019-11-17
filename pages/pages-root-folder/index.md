@@ -11,7 +11,7 @@ widget1:
   title: "Calendar"
   url: '/calendar/'
   image: candles-302.jpg
-  text: 'Regular services:<br/>Saturday - 6pm Vespers<br/>Sunday - 9am Liturgy<br/>+ weekday services'
+  text: 'Regular services:<ul><li>Saturday - 6pm Vespers<li>Sunday - 9am Liturgy</ul>+ weekday services...'
 widget2:
   title: "Our faith"
   url: '/orthodox-christianity/'
