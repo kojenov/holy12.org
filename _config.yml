@@ -17,7 +17,7 @@ slogan: 'Vancouver, WA'
 description: 'We are an Eastern Orthodox church in Vancouver, WA. We invite you to join us for worship and fellowship!'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="https://kojenov.com">Alexei Kojenov</a> with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created by <a href="https://kojenov.com">Alexei Kojenov</a> with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
