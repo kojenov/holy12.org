@@ -13,8 +13,10 @@ format: frontpage
 {% for mypage in site.pages %}
     {% if mypage.announcement %}
         <div class="row t30 b60">
-            <div class="panel medium-8 medium-offset-2 columns">
+            <div class="medium-8 medium-offset-2 columns">
+            <div class="panel announcement">
                 {{ mypage.content }}
+            </div>
             </div><!-- /.small-12.columns -->
         </div><!-- /.row -->
     {% endif %}
@@ -61,14 +63,6 @@ format: frontpage
 {% endif %}
 
 
-{% assign f = site.static_files | where_exp: "f","f.path contains '/newsletter/'" | last %}
-<div class="row t60 b60">
-    <div class="small-12 text-center columns">
-        <a class="button large radius {{ page.callforaction.style }}" href="{{ site.url }}{{ f.path }}" target="_blank" >Download the latest newsletter</a>
-    </div>
-</div>
-
-  
 {% comment %}
 *
 * Finally, if there is content, spit it out.

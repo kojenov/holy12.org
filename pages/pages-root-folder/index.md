@@ -44,3 +44,31 @@ permalink: /index.html
 homepage: true
 ---
 
+{% assign f = site.static_files | where_exp: "f","f.path contains '/newsletter/'" | last %}
+<div class="row t60 b60">
+    <div class="small-12 text-center columns">
+        <a class="button large radius {{ page.callforaction.style }}" href="{{ site.url }}{{ f.path }}" target="_blank" >Download the latest newsletter</a>
+    </div>
+</div>
+
+<div class="row t60 b60">
+    <div class="small-12 text-center columns">
+        <h2 class="font-size-h3 t10">Random photo</h2>
+        <div id="random-image-frontpage"></div>
+        <!-- idea: https://piwigo.org/forum/viewtopic.php?id=28334 -->
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <script type="text/javascript">
+        var pwg_api = "https://photo.holy12.org/ws.php?format=json&method=pwg.categories.getImages&per_page=1&page=1&order=random";
+        $.getJSON(pwg_api, function (json) {
+            var images = json.result.images;
+            $.each( images, function ( i, image ) {
+            var src = image.derivatives.small.url;
+            var height = image.derivatives.small.height;
+            var name = image.file;
+            var link = image.categories[0].page_url;
+            $('#random-image-frontpage').append('<a href="' + link + '" target="_blank"><img class="img-shadow" src="' + src + '"/></a>');
+            });
+        });
+        </script>
+    </div>
+</div>

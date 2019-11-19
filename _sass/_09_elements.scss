@@ -148,3 +148,14 @@ img.lazy {
     transition: opacity 0.7s;
     opacity: 1;
 }
+
+.img-shadow {
+   box-shadow: 0 0px 10px #777;
+   margin:10px;
+}
+
+.announcement {
+   border-radius: 10px;
+   box-shadow: 0 0px 10px #ae8c6e85;
+}
+

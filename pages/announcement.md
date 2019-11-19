@@ -2,11 +2,9 @@
 announcement: true
 ---
 
-## Announcements
+## Nativity services and events
 
-Test...
-
-Upcoming Nativity services and events (to be confirmed):
+to be confirmed... see [calendar](/calendar/) for details
 
 - Monday, January 6
   - 6:00pm - Vigil

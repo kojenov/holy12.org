@@ -15,38 +15,33 @@
               {{ site.description }}
               <a href="{{ site.url }}{{ site.baseurl }}/about/">{{ site.data.language.more }}</a>
             </p>
-          </div><!-- /.large-6.columns -->
+          </div>
 
 
-          <div class="small-6 medium-3 large-3 columns">
-            {% for network_item in site.data.network %}
-              {% if forloop.first == true %}
-                <h5 class="shadow-black">Random photo</h5>
-              {% endif %}
-            {% endfor %}
+          <div class="medium-3 large-3 columns text-center">
+          {% if page.homepage != true %}
+            <h5 class="shadow-black">Random photo</h5>
 
             <div id="recent-image"></div>
 
+            <!-- idea: https://piwigo.org/forum/viewtopic.php?id=28334 -->
             <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-
             <script type="text/javascript">
             var pwg_api = "https://photo.holy12.org/ws.php?format=json&method=pwg.categories.getImages&per_page=1&page=1&order=random";
-
             $.getJSON(pwg_api, function (json) {
                 var images = json.result.images;
-
                 $.each( images, function ( i, image ) {
                 var src = image.derivatives.thumb.url;
                 var height = image.derivatives.thumb.height;
                 var name = image.file;
                 var link = image.categories[0].page_url;
-
-                $('#recent-image').append('<a href="' + link + '"><img class="img-fluid" src="' + src + '" alt="' + name + '"/></a>');
+                $('#recent-image').append('<a href="' + link + '" target="_blank"><img class="img-shadow" src="' + src + '"/></a>');
                 });
             });
             </script>
-
-          </div><!-- /.large-3.columns -->
+          {% endif %}
+          </div>
+          
         </div><!-- /.row -->
 
       </div><!-- /#footer -->
