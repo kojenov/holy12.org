@@ -53,11 +53,11 @@ homepage: true
 
 <div class="row t60 b60">
     <div class="small-12 text-center columns">
-        <h2 class="font-size-h3 t10">Random photo</h2>
+        <h2 class="font-size-h3 t10 b15">Random photo</h2>
         <div id="random-image-frontpage"></div>
-        <!-- idea: https://piwigo.org/forum/viewtopic.php?id=28334 -->
         <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
         <script type="text/javascript">
+        /*idea: https://piwigo.org/forum/viewtopic.php?id=28334*/
         var pwg_api = "https://photo.holy12.org/ws.php?format=json&method=pwg.categories.getImages&per_page=1&page=1&order=random";
         $.getJSON(pwg_api, function (json) {
             var images = json.result.images;
