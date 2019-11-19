@@ -2077,7 +2077,7 @@ function FastClick(a,b){"use strict";function c(a,b){return function(){return a.
       sticky_class : 'sticky',
       custom_back_text: true,
       back_text: 'Back',
-      mobile_show_parent_link: true,
+      mobile_show_parent_link: false,
       is_hover: true,
       scrolltop : true, // jump to top when sticky nav menu toggle is clicked
       sticky_on : 'all'
