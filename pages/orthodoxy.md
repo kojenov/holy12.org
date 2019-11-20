@@ -4,8 +4,6 @@ title: "Orthodox Christianity"
 #subheadline: "Who are we?"
 #teaser: "We are an Eastern Orthodox church in Vancouver, WA. We invite you to join us for worship and fellowship!"
 permalink: "/orthodox-christianity/"
-header:
-    image_fullwidth: "header_ha1.jpg"
 ---
 
 The Orthodox Faith traces back to the Apostolic times, after Christ’s Resurrection. There are approximately 250 million Orthodox Christians worldwide and 1.3 percent of the population in the United States. Eastern Orthodoxy is the largest single religious faith in Belarus, Bulgaria, Macedonia, Cyprus, Georgia, Greece, Moldova, Montenegro, Romania, Serbia, Russia and Ukraine.

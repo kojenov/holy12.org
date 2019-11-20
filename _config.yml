@@ -111,10 +111,12 @@ defaults:
       path: '' 				# an empty string here means all files in the project
       type: 'pages'
     values:
-      show_meta: false 	# Hide metadata for all pages
+      show_meta: true 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: kojenov     # Default author for pages
+      header:
+        image_fullwidth: "header_ha1.jpg"
   -
     scope:
       path: ''
@@ -124,6 +126,20 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: kojenov     # Default author for posts
+  -
+    scope:
+      path: ''
+      type: 'cookbook'
+    values:
+      layout: cookbook
+      show_meta: false
+      comments: false
+      author: kojenov
+      breadcrumb: true
+      food-list: ''
+      subheadline: "Lenten cookbook"
+      header:
+        image_fullwidth: "header_ha1.jpg"
 
 
 
@@ -273,3 +289,8 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
+
+collections:
+  cookbook:
+    output: true
+    sort_by: title
