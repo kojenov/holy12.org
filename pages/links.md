@@ -1,11 +1,8 @@
 ---
 layout: page
 title: "Links"
-#subheadline: "Who are we?"
-#teaser: "We are an Eastern Orthodox church in Vancouver, WA. We invite you to join us for worship and fellowship!"
+subheadline: "Resources"
 permalink: "/links/"
-header:
-    image_fullwidth: "header_ha1.jpg"
 ---
 
 

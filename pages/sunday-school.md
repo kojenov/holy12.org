@@ -1,11 +1,7 @@
 ---
 layout: page
 title: "Sunday school"
-#subheadline: "Who are we?"
-#teaser: "We are an Eastern Orthodox church in Vancouver, WA. We invite you to join us for worship and fellowship!"
 permalink: "/sunday-school/"
-header:
-    image_fullwidth: "header_ha1.jpg"
 ---
 
 Our Sunday school takes place from September till June. In addition to studies, our students yearly prepare a play (older groups) and a song (younger groups) to perform at the parish Nativity party.

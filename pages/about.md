@@ -4,8 +4,6 @@ title: "About us"
 #subheadline: "Who are we?"
 #teaser: "We are an Eastern Orthodox church in Vancouver, WA. We invite you to join us for worship and fellowship!"
 permalink: "/about/"
-header:
-    image_fullwidth: "header_ha1.jpg"
 ---
 
 We are an [Orthodox Christian](https://en.wikipedia.org/wiki/Orthodox_christian) parish that belongs to [Diocese of the West](https://www.dowoca.org/) of the [Orthodox Church in America](http://www.oca.org/).

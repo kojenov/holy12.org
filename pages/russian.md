@@ -1,11 +1,7 @@
 ---
 layout: page
 title: "Православная церковь Святых Апостолов"
-#subheadline: "Who are we?"
-#teaser: "We are an Eastern Orthodox church in Vancouver, WA. We invite you to join us for worship and fellowship!"
 permalink: "/russian/"
-header:
-    image_fullwidth: "header_ha1.jpg"
 ---
 
 Добро пожаловать!

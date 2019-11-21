@@ -1,12 +1,7 @@
 ---
 layout: page
 title: "Contact"
-#meta_title: "Contact and use our contact form"
-#subheadline: "Wufoo-powered contact forms"
-#teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
-header:
-    image_fullwidth: "header_ha1.jpg"
 ---
 
 Please use the form below to contact us. Or, if you prefer, you can call Fr. Michael at 425-999-0407

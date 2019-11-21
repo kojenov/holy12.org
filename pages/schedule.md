@@ -1,10 +1,7 @@
 ---
 layout: page
 title: "Schedule of services"
-#subheadline: "Who are we?"
 permalink: "/schedule/"
-header:
-    image_fullwidth: "header_ha1.jpg"
 ---
 
 The parish follows the [Old (Julian) Calendar](http://orthodoxwiki.org/Julian_calendar).

@@ -1,8 +1,6 @@
 ---
 layout: page
 title: "Orthodox Christianity"
-#subheadline: "Who are we?"
-#teaser: "We are an Eastern Orthodox church in Vancouver, WA. We invite you to join us for worship and fellowship!"
 permalink: "/orthodox-christianity/"
 ---
 

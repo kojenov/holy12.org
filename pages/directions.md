@@ -1,11 +1,7 @@
 ---
 layout: page
 title: "Directions"
-#subheadline: "Who are we?"
-#teaser: "We are an Eastern Orthodox church in Vancouver, WA. We invite you to join us for worship and fellowship!"
 permalink: "/directions/"
-header:
-    image_fullwidth: "header_ha1.jpg"
 ---
 
 For phone number and electronic contact options, please see the [contact](/contact/) page.
