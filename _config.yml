@@ -60,8 +60,8 @@ plugins:
 #   /_/    \__,_/\__, /_/_/ /_/\__,_/\__/_/\____/_/ /_/
 #               /____/
 #
-paginate: 5                      # Paginates all X entries
-paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
+#paginate: 5                      # Paginates all X entries
+#paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
 
 
 # Theme works best with Kramdown (using the table of contents function)
@@ -108,11 +108,11 @@ compress_html:
 defaults:
   -
     scope:
-      path: '' 				# an empty string here means all files in the project
+      path: ''      # an empty string here means all files in the project
       type: 'pages'
     values:
-      show_meta: true 	# Hide metadata for all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      show_meta: false
+      # sidebar:          # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: kojenov     # Default author for pages
       header:
@@ -122,10 +122,9 @@ defaults:
       path: ''
       type: 'posts'
     values:
-      show_meta: true   # Show metadata for all posts
-      # sidebar:        # Possible values › left, right › by default there will be no sidebar
+      show_meta: true
       comments: false
-      author: kojenov     # Default author for posts
+      author: kojenov
   -
     scope:
       path: ''
