@@ -283,12 +283,12 @@ body.video cite { color: #fff; }
 
 #footer-content p,
 #footer-content li {
-    font-size: rem-calc(13);
+    font-size: rem-calc(16);
     font-weight: 300;
 }
 
 #footer {
-    padding-top: 10px;
+    /*padding-top: 10px;*/
     padding-bottom: 20px;
     background: $footer-bg;
     color: $footer-color;
@@ -296,6 +296,7 @@ body.video cite { color: #fff; }
 
     #footer a {
         color: $footer-link-color;
+        font-weight: bold;
     }
     #footer h4,
     #footer h5 {
@@ -308,6 +309,13 @@ body.video cite { color: #fff; }
 
 /* Subfooter
 ------------------------------------------------------------------- */
+
+#subfooter-content p,
+#subfooter-content li {
+    font-size: rem-calc(14);
+    font-weight: 300;
+    text-align: right;
+}
 
 #subfooter {
     background: $subfooter-bg;

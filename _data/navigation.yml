@@ -8,10 +8,6 @@
   dropdown:
   - title: "About us"
     url: "/about/"
-  - title: "Calendar"
-    url: "/calendar/"
-  - title: "Newsletter"
-    url: "/newsletter/"
   - title: "Photos"
     url: "http://photo.holy12.org/"
   - title: "Sunday school"
@@ -19,12 +15,18 @@
   - title: "Iconography"
     url: "/iconography/"
 
+- title: "Calendar"
+  url: "/calendar/"
+  side: left
+
 - title: Resources
   #url: "/resources/"
   side: left
   dropdown:
   - title: "Orthodox Christianity"
     url: "/orthodox-christianity/"
+  - title: "Newsletter"
+    url: "/newsletter/"
   - title: "Lenten cookbook"
     url: "/cookbook/"
   - title: "Links"

@@ -3,10 +3,10 @@
   class: icon-facebook
   title: Holy Apostles Facebook page
 
-- name: GitHub
-  url: http://github.com/kojenov/holy12.org
-  class: icon-github
-  title: Code for this website
+#- name: GitHub
+#  url: http://github.com/kojenov/holy12.org
+#  class: icon-github
+#  title: Code for this website
 
 # - name: YouTube
 #   url: http://www.youtube.com/PhlowMedia
