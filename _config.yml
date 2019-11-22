@@ -44,7 +44,7 @@ urlimg: 'https://new.holy12.org/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "logo-large.png"
 
 # Plugins
 plugins:
