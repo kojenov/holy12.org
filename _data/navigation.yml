@@ -34,7 +34,7 @@
 
 - title: Contact
   url: "/contact/"
-  side: right
+  side: left
 
 - title: По-русски
   url: "/russian/"
