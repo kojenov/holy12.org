@@ -246,7 +246,7 @@ I look for the resurrection of the dead, and the life of the age to come. Amen.
 
 ## Credits
 
-This material is used with permission from **St. Paul Antiochian Orthodox Church in Emmaus, PA**. You can find the [original introduction ot Orthodoxy series](https://saintpaulemmaus.org/what-is-orthodoxy) and more great materials on [their website](https://saintpaulemmaus.org).
+This material is used with permission from **St. Paul Antiochian Orthodox Church in Emmaus, PA**. You can find the [original introduction to Orthodoxy series](https://saintpaulemmaus.org/what-is-orthodoxy) and more great materials on [their website](https://saintpaulemmaus.org).
 
 
 </div><!-- /.medium-8.columns -->
