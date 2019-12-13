@@ -253,13 +253,3 @@ This material is used with permission from **St. Paul Antiochian Orthodox Church
 
 </div><!-- /.row -->
 
- [1]: http://kramdown.gettalong.org/converter/html.html#toc
- [2]: {{ site.url }}/blog/
- [3]: http://srobbin.com/jquery-plugins/backstretch/
- [4]: #
- [5]: #
- [6]: #
- [7]: #
- [8]: #
- [9]: #
- [10]: #
