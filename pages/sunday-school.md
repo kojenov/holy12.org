@@ -4,44 +4,31 @@ title: "Sunday school"
 permalink: "/sunday-school/"
 ---
 
-Our Sunday school takes place from September till June. In addition to studies, our students yearly prepare a play (older groups) and a song (younger groups) to perform at the parish Nativity party.
+Our Sunday school takes place from September untill early June. We have children of all ages in their six age groups learning about the joy, the beauty and the depth and of the Orthodox Christianity.
+The classes are taught by dedicated and experienced parishioners and clergy.
 
 ## Classes
 
-- "Preschoolers" - Lives of the Saints, crafts and songs, *Olga Ivkin*
-- "Early Elementary" - augmented [Dr. Pat][1] and [OCEC][2] curriculum, *Tazsa Wells*
-- "Middle Elementary" - augmented [Dr. Pat][1] and [OCEC][2] curriculum, *Juliana Van Denend*
-- "Late Elementary" - augmented [Dr. Pat][1] and [OCEC][2] curriculum, *Veronica Cable*
-- "Pre-teens" - augmented [Dr. Pat][1] and [OCEC][2] curriculum, *Stephane Johnson*
-- "Teens" - custom curriculum/discussion groups, *Subdeacon Alex Ivkin*
+- "Preschoolers" - Lives of the Saints, crafts and songs, *mat. Xenia*
+- "Early Elementary" - augmented [Dr. Pat][1] and [OCEC][2] curriculum, *mat. Olga*
+- "Middle Elementary" - augmented [Dr. Pat][1] and [OCEC][2] curriculum, *Stephanie*
+- "Late Elementary" - custom curriculum, *dn. Alexander*
+- "Teens" - custom curriculum/discussion groups, *Matthew*
 
- 
 ## Orthodox Sunday School class materials
 
-- Dr.Pat's classes are [here](https://drive.google.com/drive/folders/0B6xSmqCsaYJNMlJ1dl9SRWkzRjg), repackaged for convinient access (ask Subd. Alex for an invite if you can not access it). The originals are on [Dr. Pat's website][1].
+- Dr.Pat's classes are [here](https://drive.google.com/drive/folders/0B6xSmqCsaYJNMlJ1dl9SRWkzRjg), repackaged for convinient access (ask dn. Alex for an invite if you can not access it). The originals are on [Dr. Pat's website][1].
 - OCEC materials are [here][2].
 - Our own materials, developed by the Holy Apostles Sunday school teachers are below. You are free to use, distribute and modify it the way you like (CC-0 license).
 
-### Middle elementary class
-
-- [New testament for middle elementary (Russian)](http://www.holy12.org/class-cable)
-
-### Teen class
-
-Semester long material in a rough complexity order, from easiest 'starter' semesters for younger teens to hardest for older teens.
-
-- [Reading and understanding CS Lewis' "Screwtape Letters"](http://www.holy12.org/teen-class-cs-lewis-screwtape-letters)
-- [Discussing CS Lewis' "Mere Christianity"](http://www.holy12.org/teen-class-cs-lewis-mere-christianity)
-- World Religions
-
- 
 ## Other school resources
 
 - Bible Resources
   - <http://ministry-to-children.com/lessons/>
   - <http://www.dltk-bible.com/educational.htm>
   - <http://www.ancientfaith.com/podcasts/letusattend>
-Printable resources
+
+- Printable resources
   - <http://antiochian.org/christianeducation/letusattend>
   - <https://www.youtube.com/channel/UCiM9mWNxTWpKY-V9Eb9TfkA>
   - <http://thebeginnersbible.com/kids.php>
