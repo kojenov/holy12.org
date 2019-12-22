@@ -24,7 +24,7 @@ With roughly 250 million members worldwide, Orthodoxy is second in size only to 
 
 The Orthodox Church has deep and lasting roots in Christian antiquity and is steeped in rich Biblical tradition. It has been the context of Christian living for millions of Christians for almost twenty centuries.
 
-Yet one cannot understand the Orthodox Church merely by reading about it. Just as reading a biography about someone is no substitute for knowing the biography’s subject personally, Orthodox Christianity must be experienced firsthand to be understood. If you are in the Emmaus area or anywhere in the Lehigh Valley or East Penn area, we welcome and invite you to come worship with us, to “come, taste and see” (Psalm 34:8).
+Yet one cannot understand the Orthodox Church merely by reading about it. Just as reading a biography about someone is no substitute for knowing the biography’s subject personally, Orthodox Christianity must be experienced firsthand to be understood. We welcome and invite you to come worship with us, to “come, taste and see” (Psalm 34:8).
 
 Even though Orthodox Christianity must be experienced directly to realize the fullness of its life, there are questions which are commonly asked when first visiting an Orthodox Church that can have some light shed upon them with a few brief words.
 
