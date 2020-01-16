@@ -12,6 +12,6 @@ announcement: true
   - 6pm - Vigil
 - Sunday, January 19
   - 9am - Divine Liturgy
-  - 11:30am - Bleggin of Columbia River at Wintler Park
+  - 11:30am - Blessing of Columbia River at Wintler Park
 
 See the [calendar](/calendar/) for more details
