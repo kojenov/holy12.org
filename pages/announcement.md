@@ -2,14 +2,16 @@
 announcement: true
 ---
 
-## Nativity services and events
+## Theophany services
 
-- Monday, January 6
-  - 8:30am - Royal Hours
-  - 10am - Divine Liturgy
-  - 6:00pm - Vigil
-- Tuesday, January 7
+- Friday, January 17
+  - 6am - Royal Hours
+- Saturday, January 18
   - 9:30am - Divine Liturgy
-  - 12:00pm - Christmas Party
+  - 11am - Vespers with Water Blessing
+  - 6pm - Vigil
+- Sunday, January 19
+  - 9am - Divine Liturgy
+  - 11:30am - Bleggin of Columbia River at Wintler Park
 
 See the [calendar](/calendar/) for more details
