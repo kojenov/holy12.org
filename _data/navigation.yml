@@ -12,8 +12,8 @@
     url: "http://photo.holy12.org/"
   - title: "Sunday school"
     url: "/sunday-school/"
-#  - title: "Ministries"
-#    url: "/ministries/"
+  - title: "Ministries"
+    url: "/ministries/"
 
 - title: "Calendar"
   url: "/calendar/"
