@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Ministry descriptions and how to volunteer"
+title: "Holy Apostles ministry descriptions"
 permalink: "/ministries/"
 ---
 
@@ -18,7 +18,7 @@ permalink: "/ministries/"
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 
-Holy Apostles has many ministries designed to serve the needs of our church and community. Some ministries center on our church services, such as our choir, altar servers, chanters and readers. Others center on maintaining our property. Yet others center on fellowship, outreach and serving those in need.  We hope that everyone in the parish finds a place to serve and participate. If you have questions about a particular ministry, want to volunteer or participate, please contact the individual who leads that ministry.
+Holy Apostles has many ministries designed to serve the needs of our church and community. Some ministries center on our church services, such as our choir, altar servers, chanters and readers. Others center on maintaining our property. Yet others center on fellowship, outreach and serving those in need.  We hope that everyone in the parish finds a place to serve and participate.
 
 
 ## Education
