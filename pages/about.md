@@ -6,6 +6,8 @@ title: "About us"
 permalink: "/about/"
 ---
 
+[![]({{ site.urlimg }}HA-2020-web-sm.jpg)]({{ site.urlimg }}HA-2020-web.jpg)
+
 We are an [Orthodox Christian](https://en.wikipedia.org/wiki/Orthodox_christian) parish that belongs to [Diocese of the West](https://www.dowoca.org/) of the [Orthodox Church in America](http://www.oca.org/).
 
 Currently, Holy Apostles Orthodox Christian Mission is the only Eastern Orthodox Christian Church serving Southwest Washington with a growing congregation made up of families from all across the Vancouver-Portland Metro Area.

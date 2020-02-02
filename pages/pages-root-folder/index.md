@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "About us"
   url: '/about/'
-  image: group-2015-302.jpg
+  image: HA-2020-302.jpg
   text: 'We are an Eastern Orthodox church in Vancouver, WA. We invite you to join us for worship and fellowship!'
 #
 # Use the call for action to show a button on the frontpage
