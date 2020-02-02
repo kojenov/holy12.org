@@ -1,4 +1,7 @@
 # Holy Apostles Orthodox Christian Church
 
-TBD
+To run locally:
 
+```
+bundle exec jekyll serve --config _config.yml,_config_dev.yml
+```
