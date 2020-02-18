@@ -1,17 +1,9 @@
 ---
-announcement: false
+announcement: true
 ---
 
-## Theophany services
+## No services the week of February 17
 
-- Friday, January 17
-  - 6am - Royal Hours
-- Saturday, January 18
-  - 9:30am - Divine Liturgy
-  - 11am - Vespers with Water Blessing
-  - 6pm - Vigil
-- Sunday, January 19
-  - 9am - Divine Liturgy
-  - 11:30am - Blessing of Columbia River at Wintler Park
+Due to Fr. Michael's sickness, services this week are canceled. See you on Sunday February 23rd!
 
-See the [calendar](/calendar/) for more details
+See the [calendar](/calendar/) for the current schedule
