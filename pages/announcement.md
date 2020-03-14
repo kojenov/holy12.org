@@ -1,9 +1,9 @@
 ---
-announcement: false
+announcement: true
 ---
 
-## No services the week of February 17
+## Coronavirus update
 
-Due to Fr. Michael's sickness, services this week are canceled. See you on Sunday February 23rd!
+In light of the COVID-19 pandemic, all social events and services except for the Divine Liturgies (including the Vespers the evening before) are canceled until further notice.
 
-See the [calendar](/calendar/) for the current schedule
+Please see the [calendar](/calendar/) for the current schedule.
