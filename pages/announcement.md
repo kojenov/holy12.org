@@ -2,8 +2,10 @@
 announcement: true
 ---
 
-## Coronavirus update
+## Coronavirus update - 17 March 2020
 
-In light of the COVID-19 pandemic, all social events and services except for the Divine Liturgies (including the Vespers the evening before) are canceled until further notice.
+His Eminence Archbishop Benjamin has made a decision to close all places of worship in the Diocese of the West for at least two weeks. Please read [his letter](https://www.dowoca.org/2020/03/17/further-update-on-the-coronavirus-from-his-eminence/) for details.
 
-Please see the [calendar](/calendar/) for the current schedule.
+There will be **no services** and no social gatherings at Holy Apostles until March 31.
+
+As always, the [online calendar](/calendar/) is up to date.
