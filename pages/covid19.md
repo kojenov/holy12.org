@@ -8,7 +8,7 @@ permalink: "/covid-19/"
 
 To comply with the State of Washington regulations, all church services and social gatherings at Holy Apostles have been suspended until further notice.
 
-**However**, we are still conducting services that are live-streamed at [our YouTube channel](https://www.youtube.com/channel/UC9dbrilNCGAKOQfzaEw9BMg). All are welcome to tune in and join us as we celebrate the services of Holy Week and Pascha.
+**However**, we are still conducting services that are live-streamed at [our YouTube channel](https://www.youtube.com/channel/UC9dbrilNCGAKOQfzaEw9BMg){:target="_blank"}. All are welcome to tune in and join us as we celebrate the services of Holy Week and Pascha.
 
 God has seen fit to test us this year. It is always hard when we cannot be together physically in one place. But we pray for one another and for the world in this time of trial; we will “attend” the services commemorating Our Lord’s Passion, death and Resurrection, and we will proclaim the Gospel no matter what our circumstance.
 
