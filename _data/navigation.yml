@@ -29,6 +29,8 @@
     url: "/newsletter/"
   - title: "Lenten cookbook"
     url: "/cookbook/"
+  - title: "Service materials"
+    url: "/service-materials/"
   - title: "Links"
     url: "/links/"
 
