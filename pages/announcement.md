@@ -2,10 +2,13 @@
 announcement: true
 ---
 
-## COVID-19 update - 10 April 2020
+## Memory eternal!
 
-To comply with the State of Washington regulations, all church services and social gatherings at Holy Apostles have been suspended until further notice.
+_14 April 2020_
 
-**However**, we are still conducting services that are live-streamed at [our YouTube channel](https://www.youtube.com/channel/UC9dbrilNCGAKOQfzaEw9BMg){:target="_blank"}. All are welcome to tune in and join us as we celebrate the services of Holy Week and Pascha. We are also uploading [service materials](/service-materials/) so you could follow the services and sing along.
+Memory eternal to our sister **Katherine (Linda) McMonigle** who passed away early this morning after two-year struggle with cancer.
+Please help the family cover the funeral costs and Jack's ongoing battle with his own cancer by [donating via GoFundMe](https://www.gofundme.com/f/help-the-mcmonigles-overcome-cancer).
 
-[continue to read...](/covid-19)
+[![]({{ site.urlimg }}JackLinda.jpg)](https://www.gofundme.com/f/help-the-mcmonigles-overcome-cancer)
+
+Thank you!!!
