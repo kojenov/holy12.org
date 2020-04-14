@@ -2,7 +2,7 @@
 announcement: true
 ---
 
-## Memory eternal!
+## Memory Eternal!
 
 _14 April 2020_
 
