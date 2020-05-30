@@ -1,5 +1,5 @@
 ---
-announcement: true
+announcement: false
 ---
 
 ## Memory Eternal!
