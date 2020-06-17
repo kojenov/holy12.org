@@ -1,14 +1,13 @@
 ---
-announcement: false
+announcement: true
 ---
 
-## Memory Eternal!
+## COVID-19 update
 
-_14 April 2020_
+_17 June 2020_
 
-Memory eternal to our sister **Katherine (Linda) McMonigle** who passed away early this morning after two-year struggle with cancer.
-Please help the family cover the funeral costs and Jack's ongoing battle with his own cancer by [donating via GoFundMe](https://www.gofundme.com/f/help-the-mcmonigles-overcome-cancer).
+For the next several weeks, Sunday services will be held outside, right next to the church building. All parishioners and visitors are welcome!
 
-[![]({{ site.urlimg }}JackLinda.jpg)](https://www.gofundme.com/f/help-the-mcmonigles-overcome-cancer)
+Saturday Vespers and other services will continue to [live-stream](https://www.youtube.com/channel/UC9dbrilNCGAKOQfzaEw9BMg).
 
-Thank you!!!
+Please see the [calendar](/calendar) for schedule updates.
