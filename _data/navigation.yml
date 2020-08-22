@@ -25,8 +25,8 @@
   dropdown:
   - title: "Orthodox Christianity"
     url: "/orthodox-christianity/"
-  - title: "Newsletter"
-    url: "/newsletter/"
+  #- title: "Newsletter"
+  #  url: "/newsletter/"
   - title: "Lenten cookbook"
     url: "/cookbook/"
   - title: "Service materials"
