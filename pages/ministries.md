@@ -25,7 +25,7 @@ Holy Apostles has many ministries designed to serve the needs of our church and 
 
 ### Adult catechism
 
-This ministry is designed to provide instruction to our catechumens who are preparing to become Orthodox Christians and inquirers who are interested in Orthodoxy.  The classes cover many topics: historical, theological, life practice and tradition… The classes meet on Wednesday evenings at 7 pm following 6 pm vespers and are led by Fr. Michael.
+This ministry is designed to provide instruction to our catechumens who are preparing to become Orthodox Christians and inquirers who are interested in Orthodoxy.  The classes cover many topics: historical, theological, life practice and tradition… The classes meet on Wednesday evenings at 7 pm following 6 pm Vespers and are led by Fr. Michael.
  
 ### Youth group
 
@@ -43,7 +43,7 @@ The Parish  Council  is  the  executive  body  that  assists  the parish  priest
 
 ### Newsletter
 
-Holy Apostles distributes a monthly newsletter that shares spiritual reflections, community announcements, book reviews, recipes, artwork, photography, and other submissions from our clergy and congregation, and news and information from the Orthodox Christian world at large. Submissions for the newsletter can be sent to Tazsa Wells. 
+Holy Apostles distributes a monthly newsletter that shares spiritual reflections, community announcements, book reviews, recipes, artwork, photography, and other submissions from our clergy and congregation, and news and information from the Orthodox Christian world at large. Submissions for the newsletter can be sent to Rob or Amanda Goff.
  
 ### Fundraising
 

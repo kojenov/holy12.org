@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: header_ha1.jpg
 widget1:
-  title: "Calendar"
+  title: "Schedule"
   url: '/calendar/'
   image: candles-302.jpg
-  text: 'Regular services:<ul><li>Saturday - 6pm Vespers<li>Sunday - 9am Liturgy</ul>+ weekday services...'
+  text: 'Regular services:<br/>- Saturday: 6pm Vespers<br/>- Sunday: 9am Liturgy<br/><br/><a href="/calendar/">see online calendar</a>'
 widget2:
   title: "Our faith"
   url: '/orthodox-christianity/'

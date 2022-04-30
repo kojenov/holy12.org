@@ -20,19 +20,15 @@ Our address is: [3214 N St, Vancouver, WA 98663](http://maps.google.com/maps?f=q
 
 Service time may vary. See the [calendar](/calendar/) for the most current information.
 
-- Wednesday 
-  - 6:00pm - Vespers
-- Thursday
-  - 6:00am or 9:30am - Divine Liturgy
 - Saturday
   - 6:00pm - Great Vespers and confessions
 - Sunday
-  - 7:30am - Matins
-  - 9:00am - Divine Liturgy, lunch and sunday school
+  - 8:30am - Hours
+  - 9:00am - Divine Liturgy, potluck lunch and sunday school
 - Eves of great feasts
   - 6:00pm - Vigil
 - Mornings of great feasts
-  - 9:30am - Divine Liturgy (times vary - see calendar)
+  - 9:00am - Divine Liturgy (times vary - see calendar)
 
 ## Clergy
 
@@ -47,3 +43,10 @@ Service time may vary. See the [calendar](/calendar/) for the most current infor
 - **George (Niels) Follestad**, treasurer
 - **John (Eric) Burkett**, secretary
 - **Simon (Robert) Beckel**, member at large
+
+- **Aidan (Micah) McIlvain**, warden
+- **Simon (Robert) Beckel**, treasurer
+- **John (Eric) Peterson**, secretary
+- **Nadia Gurnik**, memeber at large
+- **Gregory (Robert) Goff**, memeber at large
+- **Photina (Svetlana) Domico**, memeber at large
