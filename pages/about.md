@@ -38,12 +38,6 @@ Service time may vary. See the [calendar](/calendar/) for the most current infor
 
 ## Parish council
 
-- **Tamara (Tazsa) Wells**, warden
-- **Catherine Namee**, assistant warden
-- **George (Niels) Follestad**, treasurer
-- **John (Eric) Burkett**, secretary
-- **Simon (Robert) Beckel**, member at large
-
 - **Aidan (Micah) McIlvain**, warden
 - **Simon (Robert) Beckel**, treasurer
 - **John (Eric) Peterson**, secretary
