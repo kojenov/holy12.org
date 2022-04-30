@@ -14,6 +14,6 @@ title: "Yellow lentil soup"
 - 2 t. cumin
 - salt and pepper to taste
 
-### Ingredients
+### Directions
 
 Saute onion in oil until browned (this is optional—if I’m in a hurry, I just chop the onion and add it to the other ingredients without sauteing in oil). Add remaining ingredients and simmer about 2-3 hours (great in Crock Pot).
