@@ -6,7 +6,7 @@ title: "About us"
 permalink: "/about/"
 ---
 
-[![]({{ site.urlimg }}HA-2020-web-sm.jpg)]({{ site.urlimg }}HA-2020-web.jpg)
+[![]({{ site.urlimg }}HA-2023-web-sm.jpg)]({{ site.urlimg }}HA-2023-web.jpg)
 
 We are an [Orthodox Christian](https://en.wikipedia.org/wiki/Orthodox_christian) parish that belongs to [Diocese of the West](https://www.dowoca.org/) of the [Orthodox Church in America](http://www.oca.org/).
 
