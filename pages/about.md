@@ -21,10 +21,10 @@ Our address is: [3214 N St, Vancouver, WA 98663](http://maps.google.com/maps?f=q
 Service time may vary. See the [calendar](/calendar/) for the most current information.
 
 - Saturday
-  - 6:00pm - Great Vespers and confessions
+  - 6:00pm - Great Vespers or Vigil, confessions
 - Sunday
-  - 8:30am - Hours
-  - 9:00am - Divine Liturgy, potluck lunch and sunday school
+  - 8:00am - Matins (unless Vigil the night before)
+  - 9:30am - Divine Liturgy, potluck lunch, Sunday school
 - Eves of great feasts
   - 6:00pm - Vigil
 - Mornings of great feasts
