@@ -44,12 +44,25 @@ permalink: /index.html
 homepage: true
 ---
 
-{% assign f = site.static_files | where_exp: "f","f.path contains '/newsletter/'" | last %}
 <div class="row t60 b60">
     <div class="small-12 text-center columns">
-        <a class="button large radius {{ page.callforaction.style }}" href="{{ site.url }}{{ f.path }}" target="_blank" >Download the latest newsletter</a>
+        <a id="latest-weekly" style="margin-left: 1em; margin-right: 1em" class="button large radius {{ page.callforaction.style }}" href="" target="_blank" >Weekly bulletin</a>
+        <a id="latest-newsletter" style="margin-left: 1em; margin-right: 1em" class="button large radius {{ page.callforaction.style }}" href="" target="_blank" >Latest newsletter</a>
     </div>
 </div>
+
+<script>
+holy12latest('weekly').then(
+  url => {
+    document.getElementById('latest-weekly').href = url;
+  }
+);
+holy12latest('newsletter').then(
+  url => {
+    document.getElementById('latest-newsletter').href = url;
+  }
+);
+</script>
 
 <div class="row t60 b60">
     <div class="small-12 text-center columns">

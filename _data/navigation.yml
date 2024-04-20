@@ -25,12 +25,14 @@
   dropdown:
   - title: "Orthodox Christianity"
     url: "/orthodox-christianity/"
+  - title: "Weekly bulletin"
+    url: "/weekly/"
   - title: "Newsletter"
     url: "/newsletter/"
-  - title: "Lenten cookbook"
-    url: "/cookbook/"
   - title: "Service materials"
     url: "/service-materials/"
+  - title: "Lenten cookbook"
+    url: "/cookbook/"
   - title: "Links"
     url: "/links/"
 

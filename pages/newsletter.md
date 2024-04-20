@@ -5,12 +5,10 @@ subheadline: "The newsletter archive"
 permalink: "/newsletter/"
 ---
 
-{% assign months = "January February March April May June July August September October November December" | split: " " %}
-{% assign fs = site.static_files | where_exp: "f","f.path contains '/newsletter/'" | reverse %}
-{% for f in fs %}
-  {% assign parts = f.basename | split: '-' %}
-  {% assign mo = parts[1] | minus: 1 %} 
-  [{{ months[mo] }} {{ parts[0] }}]({{ site.url }}{{ f.path }})
-{% endfor %}
+<div id="nlist">
+</div>
 
-<!--http://ashbrook.io/2018-04-26-listing-documents-via-jekyll-without-collections/-->
+<script>
+  holy12archive('newsletter');
+</script>
+
