@@ -1,8 +1,7 @@
-
-const bucket = 'https://holy12-pub.storage.googleapis.com'
+const url = 'https://script.google.com/macros/s/AKfycbwOviFN5v3vFe_dS7crVwD6DJHhM0EFI758x1G-xU9KaS7qZE3ltGpCHFdriGHQBTi_/exec?authuser=0&folder=';
 
 function holy12archive(folder) {
-  fetch(`${bucket}/${folder}/toc.json`)
+  fetch(url + folder)
     .then(response => response.json())
     .then(files => {
       nlist = document.getElementById('nlist');
@@ -18,7 +17,7 @@ function holy12archive(folder) {
 }
 
 function holy12latest(folder) {
-  return fetch(`${bucket}/${folder}/toc.json`)
+  return fetch(url + folder)
     .then(response => response.json())
     .then(files => (
         `${bucket}/${folder}/${files[0].file}`
