@@ -1,15 +1,16 @@
-const url = 'https://script.google.com/macros/s/AKfycbwOviFN5v3vFe_dS7crVwD6DJHhM0EFI758x1G-xU9KaS7qZE3ltGpCHFdriGHQBTi_/exec?authuser=0&folder=';
+
+const bucket = 'https://holy12-pub.storage.googleapis.com'
 
 function holy12archive(folder) {
-  fetch(url + folder)
+  fetch(`${bucket}/${folder}/toc.json`)
     .then(response => response.json())
     .then(files => {
       nlist = document.getElementById('nlist');
-      for (const f of files) {
+      for (const nl of files) {
         var a = document.createElement('a');
         var p = document.createElement('p');
-        a.appendChild(document.createTextNode(f.title));
-        a.href = f.file;
+        a.appendChild(document.createTextNode(nl.title));
+        a.href = `${bucket}/${folder}/${nl.file}`;
         p.appendChild(a);
         nlist.appendChild(p);
       }
@@ -17,10 +18,9 @@ function holy12archive(folder) {
 }
 
 function holy12latest(folder) {
-  return fetch(url + folder)
+  return fetch(`${bucket}/${folder}/toc.json`)
     .then(response => response.json())
     .then(files => (
-        files[0].file
+        `${bucket}/${folder}/${files[0].file}`
     ));
 }
-
