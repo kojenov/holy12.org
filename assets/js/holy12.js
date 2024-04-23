@@ -5,11 +5,11 @@ function holy12archive(folder) {
     .then(response => response.json())
     .then(files => {
       nlist = document.getElementById('nlist');
-      for (const nl of files) {
+      for (const f of files) {
         var a = document.createElement('a');
         var p = document.createElement('p');
-        a.appendChild(document.createTextNode(nl.title));
-        a.href = `${bucket}/${folder}/${nl.file}`;
+        a.appendChild(document.createTextNode(f.title));
+        a.href = f.file;
         p.appendChild(a);
         nlist.appendChild(p);
       }
@@ -20,7 +20,7 @@ function holy12latest(folder) {
   return fetch(url + folder)
     .then(response => response.json())
     .then(files => (
-        `${bucket}/${folder}/${files[0].file}`
+        files[0].file
     ));
 }
 
