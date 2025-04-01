@@ -1,9 +1,9 @@
 ---
-announcement: false
+announcement: true
 ---
 
 ## Announcements
 
-### 14 January 2022
+### 31 March 2025
 
-All services and meetings for the **January 15-16** weekend have been canceled. Please see the [calendar](/calendar) for the latest schedule updates.
+Holy Apostles is moving! Starting Monday, April 7th, all services and events are going to be at the new building at **3814 Franklin St, Vancouver, WA 98660**
